@@ -1,0 +1,15 @@
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\bin\Debug\net6.0\RPCv2.exe
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\bin\Debug\net6.0\RPCv2.deps.json
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\bin\Debug\net6.0\RPCv2.runtimeconfig.json
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\bin\Debug\net6.0\RPCv2.dll
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\bin\Debug\net6.0\RPCv2.pdb
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\RPCv2.csproj.AssemblyReference.cache
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\RPCv2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\RPCv2.AssemblyInfoInputs.cache
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\RPCv2.AssemblyInfo.cs
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\RPCv2.csproj.CoreCompileInputs.cache
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\RPCv2.dll
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\refint\RPCv2.dll
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\RPCv2.pdb
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\RPCv2.genruntimeconfig.cache
+D:\Data\Osobni\Programovani\C#\RPCv2\RPCv2\obj\Debug\net6.0\ref\RPCv2.dll
